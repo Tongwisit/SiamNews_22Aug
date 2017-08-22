@@ -16,5 +16,6 @@
     <string name="message_not_math">Please Type Two Password Math</string>
     <string name="title_non_choose">Non Choose Gender</string>
     <string name="message_non_choose">Please Choose Gender</string>
+    <string name="news">News</string>
 
 </resources>
